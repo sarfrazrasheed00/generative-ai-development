@@ -1,0 +1,51 @@
+{
+    "username": "Sarfraz123-wq",
+    "full_name": "Sarfraz Rasheed",
+    "bio": "Web Developer ",
+    "profile_url": "https://github.com/Sarfraz123-wq",
+    "public_repositories": 26,
+    "followers": 17,
+    "analyzed_repositories": 5,
+    "languages": {
+        "HTML": 3,
+        "CSS": 1,
+        "Vue": 1
+    },
+    "repositories": [
+        {
+            "name": "Cafe",
+            "description": null,
+            "language": "HTML",
+            "stargazers_count": 0,
+            "html_url": "https://github.com/Sarfraz123-wq/Cafe"
+        },
+        {
+            "name": "OnlineExaminationSystem",
+            "description": "Learning Laravel by creating real world full stack application. ",
+            "language": "CSS",
+            "stargazers_count": 0,
+            "html_url": "https://github.com/Sarfraz123-wq/OnlineExaminationSystem"
+        },
+        {
+            "name": "Weather_app_vuejs",
+            "description": "by using openweathermap.org/api.",
+            "language": "Vue",
+            "stargazers_count": 0,
+            "html_url": "https://github.com/Sarfraz123-wq/Weather_app_vuejs"
+        },
+        {
+            "name": "fashion-ecommerce-design",
+            "description": "Designing fashion ecommerce design from scratch with swiper.js and Vannilla JavaScript.",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "html_url": "https://github.com/Sarfraz123-wq/fashion-ecommerce-design"
+        },
+        {
+            "name": "Testimonials-Grid-Section-Frontend-Mentor",
+            "description": "This is a challenge grid layout from frontend mentor platform.",
+            "language": "HTML",
+            "stargazers_count": 0,
+            "html_url": "https://github.com/Sarfraz123-wq/Testimonials-Grid-Section-Frontend-Mentor"
+        }
+    ]
+}
