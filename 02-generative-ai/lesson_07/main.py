@@ -102,6 +102,31 @@ class GeminiAIService:
 
         response = self.llm.invoke(messages)
 
+        print("\n========== EXTRA DEBUG ==========")
+
+        print("1. Response object:")
+        print(response)
+
+        print("\n2. Response type:")
+        print(type(response))
+
+        print("\n3. Response content:")
+        print(response.content)
+
+        print("\n4. Content type:")
+        print(type(response.content))
+
+        print("\n5. Extracted text:")
+        print(response.text)
+
+        print("\n6. Usage metadata:")
+        print(response.usage_metadata)
+
+        print("\n7. Response metadata:")
+        print(response.response_metadata)
+
+        print("\n========== DEBUG END ==========")
+
         elapsed_time = time.perf_counter() - start_time
 
         print("\n[DEBUG 5] Gemini response received")
