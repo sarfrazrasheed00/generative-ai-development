@@ -1,51 +1,36 @@
 {
-    "username": "Sarfraz123-wq",
-    "full_name": "Sarfraz Rasheed",
-    "bio": "Web Developer ",
-    "profile_url": "https://github.com/Sarfraz123-wq",
-    "public_repositories": 26,
-    "followers": 17,
-    "analyzed_repositories": 5,
+    "username": "sarfrazrasheed00",
+    "full_name": null,
+    "bio": null,
+    "profile_url": "https://github.com/sarfrazrasheed00",
+    "public_repositories": 3,
+    "followers": 0,
+    "analyzed_repositories": 3,
     "languages": {
-        "HTML": 3,
-        "CSS": 1,
-        "Vue": 1
+        "Python": 2,
+        "Jupyter Notebook": 1
     },
     "repositories": [
         {
-            "name": "Cafe",
-            "description": null,
-            "language": "HTML",
+            "name": "generative-ai-development",
+            "description": "Hands-on Generative AI development with Python, FastAPI, LLMs, RAG, AI Agents, and real-world projects.",
+            "language": "Python",
             "stargazers_count": 0,
-            "html_url": "https://github.com/Sarfraz123-wq/Cafe"
+            "html_url": "https://github.com/sarfrazrasheed00/generative-ai-development"
         },
         {
-            "name": "OnlineExaminationSystem",
-            "description": "Learning Laravel by creating real world full stack application. ",
-            "language": "CSS",
+            "name": "cv-dip-semester",
+            "description": "Computer Vision and Digital Image Processing — MSCS practicals, experiments and semester project.",
+            "language": "Python",
             "stargazers_count": 0,
-            "html_url": "https://github.com/Sarfraz123-wq/OnlineExaminationSystem"
+            "html_url": "https://github.com/sarfrazrasheed00/cv-dip-semester"
         },
         {
-            "name": "Weather_app_vuejs",
-            "description": "by using openweathermap.org/api.",
-            "language": "Vue",
+            "name": "cricket-ml",
+            "description": "Practical Machine Learning with cricket data: NumPy, Pandas, scikit-learn, FastAPI",
+            "language": "Jupyter Notebook",
             "stargazers_count": 0,
-            "html_url": "https://github.com/Sarfraz123-wq/Weather_app_vuejs"
-        },
-        {
-            "name": "fashion-ecommerce-design",
-            "description": "Designing fashion ecommerce design from scratch with swiper.js and Vannilla JavaScript.",
-            "language": "HTML",
-            "stargazers_count": 0,
-            "html_url": "https://github.com/Sarfraz123-wq/fashion-ecommerce-design"
-        },
-        {
-            "name": "Testimonials-Grid-Section-Frontend-Mentor",
-            "description": "This is a challenge grid layout from frontend mentor platform.",
-            "language": "HTML",
-            "stargazers_count": 0,
-            "html_url": "https://github.com/Sarfraz123-wq/Testimonials-Grid-Section-Frontend-Mentor"
+            "html_url": "https://github.com/sarfrazrasheed00/cricket-ml"
         }
     ]
 }
