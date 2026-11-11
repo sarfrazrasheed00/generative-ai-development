@@ -12,7 +12,7 @@ from pydantic import BaseModel, Field, ValidationError
 from langchain_google_genai import ChatGoogleGenerativeAI
 
 from langchain_core.prompts import (
-      ChatPromptTemplate,
+    ChatPromptTemplate,
     FewShotChatMessagePromptTemplate
 )
 
